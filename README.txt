@@ -9,3 +9,7 @@
 1. kangchun seo
 2. seokangchun
 3. test user
+
+### 브랜치 추가
+
+1. delta 브랜치 만듬
