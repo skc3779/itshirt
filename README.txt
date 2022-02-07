@@ -9,3 +9,7 @@
 1. kangchun seo
 2. seokangchun
 3. test user
+
+### 마스터 수정
+
+1. 마스터
